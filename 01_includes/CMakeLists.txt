@@ -1,0 +1,1 @@
+add_library(01_includes /home/osboxes/work/socket/00_sources/actions.cpp /home/osboxes/work/socket/00_sources/logger.cpp /home/osboxes/work/socket/00_sources/pb_config.cpp /home/osboxes/work/socket/00_sources/server.cpp /home/osboxes/work/socket/00_sources/services.cpp /home/osboxes/work/socket/00_sources/client.cpp /home/osboxes/work/socket/00_sources/common.cpp)
